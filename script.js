@@ -2,7 +2,7 @@ var typed = new Typed('#element', {
   strings: [
     'Generative AI Specialist.', 
     'AI/ML Intern.', 
-    'MLOps Engineer.', 
+    'ML Engineer.', 
     'Python Developer.'
   ],
   typeSpeed: 60,
